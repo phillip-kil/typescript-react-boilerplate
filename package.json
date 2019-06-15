@@ -4,5 +4,8 @@
   "main": "index.tsx",
   "repository": "git@github.com:phillip-kil/typescript-react-boilerplate.git",
   "author": "Phillip <phillip.kilian@icloud.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
 }
