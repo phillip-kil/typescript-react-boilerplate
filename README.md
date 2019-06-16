@@ -3,7 +3,7 @@ Starter code for React projects written in TypeScript.
 
 # Prerequisites
 
-This project uses Yarn (https://yarnpkg.com/lang/en/) as package manager, follow the instructions on their website to install. To get consistent installs across environments I recommend using Yarn (which uses the `yarn.lock` to resolve exact dependencies), but using NPM will work fine as well.
+This project uses Yarn (https://yarnpkg.com/lang/en/) as package manager, follow the instructions on their website to install. To get consistent installs across different environments I recommend using Yarn (which uses the `yarn.lock` to resolve exact dependencies), but using NPM will work fine as well.
 
 # Usage
 
