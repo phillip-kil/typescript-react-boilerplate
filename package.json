@@ -6,6 +6,8 @@
   "author": "Phillip <phillip.kilian@icloud.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/react": "^16.8.20",
+    "@types/react-dom": "^16.8.4",
     "typescript": "^3.5.2"
   },
   "dependencies": {
